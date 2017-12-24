@@ -1,6 +1,0 @@
-c:\users\14123\onedrive\documents\visual studio 2013\Projects\NUnit.Tests1\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
-c:\users\14123\onedrive\documents\visual studio 2013\Projects\NUnit.Tests1\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
-c:\users\14123\onedrive\documents\visual studio 2013\Projects\NUnit.Tests1\NUnit.Tests1\bin\Debug\nunit.framework.dll
-c:\users\14123\onedrive\documents\visual studio 2013\Projects\NUnit.Tests1\NUnit.Tests1\bin\Debug\nunit.framework.xml
-c:\users\14123\onedrive\documents\visual studio 2013\Projects\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
-c:\users\14123\onedrive\documents\visual studio 2013\Projects\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

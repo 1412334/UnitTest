@@ -26,7 +26,7 @@ namespace NUnit.Tests1
 
             destination.Deposit(amount);
 
-            Withdraw(amount);
+            // Withdraw(amount);
         }
 
         public decimal Balance

@@ -1,7 +1,7 @@
 language: csharp
 solution: NUnit.Tests1.sln
 install:
-  - nuget restore Unit.Tests1.sln
+  - travis_retry nuget restore -source "https://www.nuget.org/api/v2" ./NUnit.Tests1.sln
   - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release Unit.Tests1.sln
